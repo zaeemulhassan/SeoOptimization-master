@@ -1,0 +1,108 @@
+name: seooptimization
+description: A new Flutter application.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0-0.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  syncfusion_flutter_gauges: ^19.1.54+1
+  fluttertoast: ^4.0.0
+  http: ^0.13.1
+  location: ^4.1.1
+  geocoder: ^0.2.1
+  curved_navigation_bar: ^0.3.7
+  shared_preferences: ^2.0.5
+  rating_bar: ^0.2.0
+  flag: ^3.2.2
+  progress_dialog: ^1.2.4
+#  firebase_database: ^3.1.6
+#  firebase_core: ^0.4.5
+#  firebase_auth: ^0.16.1
+  hexcolor: ^2.0.3
+  outline_material_icons: ^0.1.1
+  url_launcher: ^6.0.3
+  google_sign_in: ^5.0.1
+  webview_flutter: ^2.0.3
+  geolocator: ^7.0.1
+  image_picker: ^0.7.4
+  html: ^0.15.0
+  flutter_styled_toast: ^1.2.1
+#  firebase_messaging: ^6.0.16
+  currency_picker: ^2.0.3
+  percent_indicator: ^2.1.7+2
+  stripe_payment: ^1.0.11
+  cupertino_icons: ^1.0.2
+  animated_text_kit: ^4.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/images/logo.png
+    - assets/images/semi_circle.png
+    - assets/images/email.png
+    - assets/images/lock.png
+    - assets/images/eye.png
+    - assets/images/circle.png
+    - assets/images/join_text.png
+    - assets/images/fb_icon.png
+    - assets/images/google_icon.png
+    - assets/images/instagram_icon.png
+    - assets/images/twitter_icon.png
+    - assets/images/user_icon.png
+    - assets/images/location_icon.png
+    - assets/images/employer_green.png
+    - assets/images/employer_yellow.png
+    - assets/images/freelancer_green.png
+    - assets/images/freelancer_yellow.png
+    - assets/images/seprator.png
+    - assets/images/agent_icon.svg
+    - assets/images/home_icon.png
+    - assets/images/text_icon.png
+    - assets/images/home_icon.svg
+    - assets/images/jobs.svg
+    - assets/images/services_icon.svg
+    - assets/images/employer_icon.svg
+    - assets/images/pro.jpg
+    - assets/images/horizontal_logo.png
+    - assets/images/nav_menu_icon.png
+    - assets/images/filter_icon.png
+    - assets/images/search_icon.png
+    - assets/images/pak.png
+    - assets/images/banner.jpg
+    - assets/images/loading.gif
+    - assets/images/no_review.png
+    - assets/images/heart.png
+    - assets/images/line.png
+    - assets/images/back_msg.png
+    - assets/images/paypalImg.png
+    - assets/images/bill.png
+    - assets/images/paytm.png
+    - assets/images/cards.png
+    - assets/images/razor.png
+    - assets/images/del.png
+    - assets/images/logoo.png
+    - assets/images/login_circle.png
+    - assets/images/dummy_img.jpeg
+    - assets/images/payoneer_img.png
+    - assets/images/useranimated.gif
+    - assets/images/freetips.gif
